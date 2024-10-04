@@ -11,3 +11,16 @@
 - 미리보기 모듈을 추가하여 pdf, xlsx, hwp, doc 등의 파일을 pdf로 미리볼 수 있는 기능 추가
 - 사내에서 사용하고 있는 문서중앙화 프로그램과 연계되는 기능 추가 ( 문서의 버전, 이력 확인 )
 - 조회수 기능 구현
+- 해시태그 자동 완성 기능 구현
+
+![image](https://github.com/user-attachments/assets/9fe3434b-d10d-4165-8adc-04df92f17fb7)
+메인화면
+
+![image](https://github.com/user-attachments/assets/f38156d6-4195-406a-beac-9f875dfe0054)
+해시태그 자동 완성
+
+![image](https://github.com/user-attachments/assets/2424bf6f-7d53-45c4-bdfd-ce8fd1427b73)
+사내 문서중앙화 시스템과 연계
+
+![image](https://github.com/user-attachments/assets/325408b8-6a25-498c-9cb9-a79705cd6428)
+결과 내 재검색
